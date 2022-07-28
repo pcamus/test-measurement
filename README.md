@@ -6,4 +6,5 @@ I will focus on two kinds of measurement : power consumption and timing of µC g
 
 The purpose of these tests is to study autonomy of an embedded system and to highlight realtime issues.
 
+- [hardware setup] (hardware_setup)
 - [Ground path issues](ground_path)
