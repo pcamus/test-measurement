@@ -8,7 +8,7 @@ And this logic analyser : https://amz.run/5nRn
 
 ![](setup.jpg)
 
-For the first test, I ran a simple MicroPython [blinky](blinky.py) program.
+For the first test, I ran a simple MicroPython [blink.py](blink.py) program.
 
 Before connecting the logic analyser ground connection, the measured current was 18.6 mA when the LED is off and 20.7 mA when it is on.
 
