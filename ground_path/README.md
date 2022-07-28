@@ -17,6 +17,6 @@ The big difference given by our tester comes from the fact that this device does
 
 The detail of this process is in this pdf : [Return_current_path.pdf](Return_current_path.pdf)
 
-Conclusion: the tester is wrong and can only give a reliable measurement in circuit where no common return ground exists.
+Conclusion: the tester is wrong and can only give a reliable measurement in circuits where no common return ground exists.
 
 - [ ] To do : buy a better tester
